@@ -1,0 +1,19 @@
+/home/zxq/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5712.21/bin/cmake/linux/bin/cmake -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/zxq/.leetcode/cplus
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/1-two-sum.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/2-add-two-numbers.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/cong-wei-dao-tou-da-yin-lian-biao-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/er-wei-shu-zu-zhong-de-cha-zhao-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/fei-bo-na-qi-shu-lie-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/ji-qi-ren-de-yun-dong-fan-wei-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/jian-sheng-zi-ii-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/jian-sheng-zi-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/ju-zhen-zhong-de-lu-jing-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/qing-wa-tiao-tai-jie-wen-ti-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/ti-huan-kong-ge-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/zhong-jian-er-cha-shu-lcof.cpp has been parsed! 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zxq/.leetcode/cplus/cmake-build-default

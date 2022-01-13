@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/leetcode/editor/cn/zhong-jian-er-cha-shu-lcof.cpp.o -o zhong-jian-er-cha-shu-lcof 

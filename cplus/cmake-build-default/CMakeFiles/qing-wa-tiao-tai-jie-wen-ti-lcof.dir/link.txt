@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/leetcode/editor/cn/qing-wa-tiao-tai-jie-wen-ti-lcof.cpp.o -o qing-wa-tiao-tai-jie-wen-ti-lcof 

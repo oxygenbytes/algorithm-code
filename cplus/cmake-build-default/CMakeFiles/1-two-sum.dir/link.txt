@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/1-two-sum.dir/leetcode/editor/cn/1-two-sum.cpp.o -o 1-two-sum 

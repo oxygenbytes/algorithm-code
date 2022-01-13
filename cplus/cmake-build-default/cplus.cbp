@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cplus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhong-jian-er-cha-shu-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/zhong-jian-er-cha-shu-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 zhong-jian-er-cha-shu-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhong-jian-er-cha-shu-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/zhong-jian-er-cha-shu-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 zhong-jian-er-cha-shu-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ti-huan-kong-ge-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/ti-huan-kong-ge-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 ti-huan-kong-ge-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ti-huan-kong-ge-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/ti-huan-kong-ge-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 ti-huan-kong-ge-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yong-liang-ge-zhan-shi-xian-dui-lie-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/yong-liang-ge-zhan-shi-xian-dui-lie-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 yong-liang-ge-zhan-shi-xian-dui-lie-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yong-liang-ge-zhan-shi-xian-dui-lie-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/yong-liang-ge-zhan-shi-xian-dui-lie-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 yong-liang-ge-zhan-shi-xian-dui-lie-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shu-zu-zhong-zhong-fu-de-shu-zi-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/shu-zu-zhong-zhong-fu-de-shu-zi-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 shu-zu-zhong-zhong-fu-de-shu-zi-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shu-zu-zhong-zhong-fu-de-shu-zi-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/shu-zu-zhong-zhong-fu-de-shu-zi-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 shu-zu-zhong-zhong-fu-de-shu-zi-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cong-wei-dao-tou-da-yin-lian-biao-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/cong-wei-dao-tou-da-yin-lian-biao-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 cong-wei-dao-tou-da-yin-lian-biao-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cong-wei-dao-tou-da-yin-lian-biao-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/cong-wei-dao-tou-da-yin-lian-biao-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 cong-wei-dao-tou-da-yin-lian-biao-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="er-wei-shu-zu-zhong-de-cha-zhao-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/er-wei-shu-zu-zhong-de-cha-zhao-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 er-wei-shu-zu-zhong-de-cha-zhao-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="er-wei-shu-zu-zhong-de-cha-zhao-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/er-wei-shu-zu-zhong-de-cha-zhao-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 er-wei-shu-zu-zhong-de-cha-zhao-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1-two-sum">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/1-two-sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 1-two-sum"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1-two-sum/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/1-two-sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 1-two-sum/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ju-zhen-zhong-de-lu-jing-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/ju-zhen-zhong-de-lu-jing-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 ju-zhen-zhong-de-lu-jing-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ju-zhen-zhong-de-lu-jing-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/ju-zhen-zhong-de-lu-jing-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 ju-zhen-zhong-de-lu-jing-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fei-bo-na-qi-shu-lie-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/fei-bo-na-qi-shu-lie-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 fei-bo-na-qi-shu-lie-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fei-bo-na-qi-shu-lie-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/fei-bo-na-qi-shu-lie-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 fei-bo-na-qi-shu-lie-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2-add-two-numbers">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/2-add-two-numbers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 2-add-two-numbers"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2-add-two-numbers/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/2-add-two-numbers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 2-add-two-numbers/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ji-qi-ren-de-yun-dong-fan-wei-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/ji-qi-ren-de-yun-dong-fan-wei-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 ji-qi-ren-de-yun-dong-fan-wei-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ji-qi-ren-de-yun-dong-fan-wei-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/ji-qi-ren-de-yun-dong-fan-wei-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 ji-qi-ren-de-yun-dong-fan-wei-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jian-sheng-zi-ii-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/jian-sheng-zi-ii-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 jian-sheng-zi-ii-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jian-sheng-zi-ii-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/jian-sheng-zi-ii-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 jian-sheng-zi-ii-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="qing-wa-tiao-tai-jie-wen-ti-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/qing-wa-tiao-tai-jie-wen-ti-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 qing-wa-tiao-tai-jie-wen-ti-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="qing-wa-tiao-tai-jie-wen-ti-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/qing-wa-tiao-tai-jie-wen-ti-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 qing-wa-tiao-tai-jie-wen-ti-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jian-sheng-zi-lcof">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/jian-sheng-zi-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 jian-sheng-zi-lcof"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jian-sheng-zi-lcof/fast">
+				<Option output="/home/zxq/.leetcode/cplus/cmake-build-default/jian-sheng-zi-lcof" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zxq/.leetcode/cplus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 jian-sheng-zi-lcof/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/zxq/.leetcode/cplus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/1-two-sum.cpp">
+			<Option target="1-two-sum"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/2-add-two-numbers.cpp">
+			<Option target="2-add-two-numbers"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/cong-wei-dao-tou-da-yin-lian-biao-lcof.cpp">
+			<Option target="cong-wei-dao-tou-da-yin-lian-biao-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/er-wei-shu-zu-zhong-de-cha-zhao-lcof.cpp">
+			<Option target="er-wei-shu-zu-zhong-de-cha-zhao-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/fei-bo-na-qi-shu-lie-lcof.cpp">
+			<Option target="fei-bo-na-qi-shu-lie-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/ji-qi-ren-de-yun-dong-fan-wei-lcof.cpp">
+			<Option target="ji-qi-ren-de-yun-dong-fan-wei-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/jian-sheng-zi-ii-lcof.cpp">
+			<Option target="jian-sheng-zi-ii-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/jian-sheng-zi-lcof.cpp">
+			<Option target="jian-sheng-zi-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/ju-zhen-zhong-de-lu-jing-lcof.cpp">
+			<Option target="ju-zhen-zhong-de-lu-jing-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/qing-wa-tiao-tai-jie-wen-ti-lcof.cpp">
+			<Option target="qing-wa-tiao-tai-jie-wen-ti-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.cpp">
+			<Option target="shu-zu-zhong-zhong-fu-de-shu-zi-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/ti-huan-kong-ge-lcof.cpp">
+			<Option target="ti-huan-kong-ge-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.cpp">
+			<Option target="xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.cpp">
+			<Option target="yong-liang-ge-zhan-shi-xian-dui-lie-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/leetcode/editor/cn/zhong-jian-er-cha-shu-lcof.cpp">
+			<Option target="zhong-jian-er-cha-shu-lcof"/>
+		</Unit>
+		<Unit filename="/home/zxq/.leetcode/cplus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

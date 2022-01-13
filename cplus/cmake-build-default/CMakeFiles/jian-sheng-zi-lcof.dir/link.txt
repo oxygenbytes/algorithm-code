@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/jian-sheng-zi-lcof.dir/leetcode/editor/cn/jian-sheng-zi-lcof.cpp.o -o jian-sheng-zi-lcof 

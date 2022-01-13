@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/leetcode/editor/cn/fei-bo-na-qi-shu-lie-lcof.cpp.o -o fei-bo-na-qi-shu-lie-lcof 

@@ -1,0 +1,5 @@
+cplus/cmake-build-debug/
+golang/leetcode/pkg
+cplus/.idea/
+golang/leetcode/.idea/
+.vscode/

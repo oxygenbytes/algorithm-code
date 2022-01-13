@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/leetcode/editor/cn/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.cpp.o -o xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof 

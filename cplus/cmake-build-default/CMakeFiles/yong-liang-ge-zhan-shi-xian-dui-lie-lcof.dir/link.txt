@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/leetcode/editor/cn/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.cpp.o -o yong-liang-ge-zhan-shi-xian-dui-lie-lcof 
