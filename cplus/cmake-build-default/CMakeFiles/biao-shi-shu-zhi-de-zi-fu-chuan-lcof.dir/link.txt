@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.dir/leetcode/editor/cn/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.cpp.o -o biao-shi-shu-zhi-de-zi-fu-chuan-lcof 

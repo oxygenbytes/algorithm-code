@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/leetcode/editor/cn/shu-zhi-de-zheng-shu-ci-fang-lcof.cpp.o -o shu-zhi-de-zheng-shu-ci-fang-lcof 

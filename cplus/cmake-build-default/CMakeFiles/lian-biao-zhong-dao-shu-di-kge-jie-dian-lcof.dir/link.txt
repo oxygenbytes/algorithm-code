@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/leetcode/editor/cn/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.cpp.o -o lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof 

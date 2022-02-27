@@ -1,14 +1,24 @@
 /home/zxq/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5712.21/bin/cmake/linux/bin/cmake -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/zxq/.leetcode/cplus
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/1-two-sum.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/2-add-two-numbers.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/cong-wei-dao-tou-da-yin-lian-biao-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/er-jin-zhi-zhong-1de-ge-shu-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/er-wei-shu-zu-zhong-de-cha-zhao-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/fan-zhuan-lian-biao-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/fei-bo-na-qi-shu-lie-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/ji-qi-ren-de-yun-dong-fan-wei-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/jian-sheng-zi-ii-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/jian-sheng-zi-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/ju-zhen-zhong-de-lu-jing-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/qing-wa-tiao-tai-jie-wen-ti-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/shan-chu-lian-biao-de-jie-dian-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/shu-de-zi-jie-gou-lcof.cpp has been parsed! 
+file /home/zxq/.leetcode/cplus/leetcode/editor/cn/shu-zhi-de-zheng-shu-ci-fang-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/ti-huan-kong-ge-lcof.cpp has been parsed! 
 file /home/zxq/.leetcode/cplus/leetcode/editor/cn/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.cpp has been parsed! 

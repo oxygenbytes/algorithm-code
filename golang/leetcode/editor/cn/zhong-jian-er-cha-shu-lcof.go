@@ -51,8 +51,35 @@ import (
  *     Right *TreeNode
  * }
  */
-func buildTree(preorder []int, inorder []int) *TreeNode {
 
+func buildTree(preorder []int, inorder []int) *TreeNode {
+	m, n := len(preorder), len(inorder)
+	if m != n {
+		return nil
+	}
+	var mp = make(map[int]int)
+	for i := 0;i < len(inorder);i ++ {
+		mp[inorder[i]] = i
+	}
+
+	return build(preorder, 0, m - 1, inorder, 0, m - 1, mp)
+}
+
+func build(pre []int, pl, pr int, in []int, il, ir int,mp map[int]int) *TreeNode {
+	if pl > pr || il > ir {
+		return nil
+	}
+
+	pos := mp[pre[pl]]
+
+	l := build(pre, pl + 1, pl - il + pos, in, il, pos -1, mp)
+	r := build(pre, pl - il + pos + 1, pr, in, pos + 1, ir, mp)
+
+	return &TreeNode{
+		Val: in[pos],
+		Left: l,
+		Right: r,
+	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
      
