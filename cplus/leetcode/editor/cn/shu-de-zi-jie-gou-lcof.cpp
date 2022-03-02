@@ -53,8 +53,23 @@
  */
 class Solution {
 public:
+    // any node of A match root of B
     bool isSubStructure(TreeNode* A, TreeNode* B) {
+        if (!A || !B) return false;
+        if (isPart(A, B)) return true;
+        return isSubStructure(A->left, B) || isSubStructure(A->right, B);
+    }
 
+    // start from the root of tree
+    // then consider left tree and right tree
+
+    // root of A match root of B
+    bool isPart(TreeNode *a, TreeNode *b) {
+        if (!b) return true;
+        if (!a) return false;
+
+        if (a->val != b->val) return false;
+        return isPart(a->left, b->left) && isPart(a->right, b->right);
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
