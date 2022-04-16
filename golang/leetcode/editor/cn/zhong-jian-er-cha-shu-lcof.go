@@ -69,9 +69,10 @@ func build(pre []int, pl, pr int, in []int, il, ir int,mp map[int]int) *TreeNode
 	if pl > pr || il > ir {
 		return nil
 	}
-
+	// find root
 	pos := mp[pre[pl]]
 
+	// array to tree
 	l := build(pre, pl + 1, pl - il + pos, in, il, pos -1, mp)
 	r := build(pre, pl - il + pos + 1, pr, in, pos + 1, ir, mp)
 

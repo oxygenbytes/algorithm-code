@@ -64,30 +64,32 @@ CMAKE_BINARY_DIR = /home/zxq/.leetcode/cplus/cmake-build-default
 
 # The main recursive "all" target.
 all: CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/all
+all: CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all
+all: CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all
+all: CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/all
 all: CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/all
 all: CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/all
 all: CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/all
-all: CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all
+all: CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/all
+all: CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all
 all: CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/all
 all: CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/all
 all: CMakeFiles/1-two-sum.dir/all
 all: CMakeFiles/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.dir/all
-all: CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all
-all: CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all
-all: CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all
 all: CMakeFiles/2-add-two-numbers.dir/all
 all: CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/all
 all: CMakeFiles/cong-wei-dao-tou-da-yin-lian-biao-lcof.dir/all
 all: CMakeFiles/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.dir/all
+all: CMakeFiles/ti-huan-kong-ge-lcof.dir/all
+all: CMakeFiles/jian-sheng-zi-lcof.dir/all
 all: CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/all
+all: CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all
+all: CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all
 all: CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/all
 all: CMakeFiles/fan-zhuan-lian-biao-lcof.dir/all
 all: CMakeFiles/jian-sheng-zi-ii-lcof.dir/all
 all: CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/all
 all: CMakeFiles/shu-de-zi-jie-gou-lcof.dir/all
-all: CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all
-all: CMakeFiles/jian-sheng-zi-lcof.dir/all
-all: CMakeFiles/ti-huan-kong-ge-lcof.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -96,30 +98,32 @@ preinstall:
 
 # The main recursive "clean" target.
 clean: CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/clean
+clean: CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean
+clean: CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean
+clean: CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/clean
 clean: CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/clean
 clean: CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/clean
 clean: CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/clean
-clean: CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean
+clean: CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/clean
+clean: CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean
 clean: CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/clean
 clean: CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/clean
 clean: CMakeFiles/1-two-sum.dir/clean
 clean: CMakeFiles/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.dir/clean
-clean: CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean
-clean: CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean
-clean: CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean
 clean: CMakeFiles/2-add-two-numbers.dir/clean
 clean: CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/clean
 clean: CMakeFiles/cong-wei-dao-tou-da-yin-lian-biao-lcof.dir/clean
 clean: CMakeFiles/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.dir/clean
+clean: CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
+clean: CMakeFiles/jian-sheng-zi-lcof.dir/clean
 clean: CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/clean
+clean: CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean
+clean: CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean
 clean: CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/clean
 clean: CMakeFiles/fan-zhuan-lian-biao-lcof.dir/clean
 clean: CMakeFiles/jian-sheng-zi-ii-lcof.dir/clean
 clean: CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/clean
 clean: CMakeFiles/shu-de-zi-jie-gou-lcof.dir/clean
-clean: CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean
-clean: CMakeFiles/jian-sheng-zi-lcof.dir/clean
-clean: CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -129,7 +133,7 @@ clean: CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
 CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/build.make CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/build.make CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=49,50 "Built target zhong-jian-er-cha-shu-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=53,54 "Built target zhong-jian-er-cha-shu-lcof"
 .PHONY : CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -149,13 +153,91 @@ CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/clean:
 .PHONY : CMakeFiles/zhong-jian-er-cha-shu-lcof.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build.make CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build.make CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=45,46 "Built target shu-zu-zhong-zhong-fu-de-shu-zi-lcof"
+.PHONY : CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/rule
+
+# Convenience name for target.
+shu-zu-zhong-zhong-fu-de-shu-zi-lcof: CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/rule
+.PHONY : shu-zu-zhong-zhong-fu-de-shu-zi-lcof
+
+# clean rule for target.
+CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build.make CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean
+.PHONY : CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build.make CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build.make CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=17,18 "Built target er-jin-zhi-zhong-1de-ge-shu-lcof"
+.PHONY : CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/rule
+
+# Convenience name for target.
+er-jin-zhi-zhong-1de-ge-shu-lcof: CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/rule
+.PHONY : er-jin-zhi-zhong-1de-ge-shu-lcof
+
+# clean rule for target.
+CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build.make CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean
+.PHONY : CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/build.make CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/build.make CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=15,16 "Built target er-cha-shu-de-jing-xiang-lcof"
+.PHONY : CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/rule
+
+# Convenience name for target.
+er-cha-shu-de-jing-xiang-lcof: CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/rule
+.PHONY : er-cha-shu-de-jing-xiang-lcof
+
+# clean rule for target.
+CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/build.make CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/clean
+.PHONY : CMakeFiles/er-cha-shu-de-jing-xiang-lcof.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir
 
 # All Build rule for target.
 CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/build.make CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/build.make CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=19,20 "Built target fei-bo-na-qi-shu-lie-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=23,24 "Built target fei-bo-na-qi-shu-lie-lcof"
 .PHONY : CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -181,7 +263,7 @@ CMakeFiles/fei-bo-na-qi-shu-lie-lcof.dir/clean:
 CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/build.make CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/build.make CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=45,46 "Built target xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=49,50 "Built target xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof"
 .PHONY : CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -207,7 +289,7 @@ CMakeFiles/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.dir/clean:
 CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/build.make CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/build.make CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=39,40 "Built target shu-zhi-de-zheng-shu-ci-fang-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=43,44 "Built target shu-zhi-de-zheng-shu-ci-fang-lcof"
 .PHONY : CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -227,30 +309,56 @@ CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/clean:
 .PHONY : CMakeFiles/shu-zhi-de-zheng-shu-ci-fang-lcof.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir
+# Target rules for target CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir
 
 # All Build rule for target.
-CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build.make CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build.make CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=13,14 "Built target er-jin-zhi-zhong-1de-ge-shu-lcof"
-.PHONY : CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all
+CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/build.make CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/build.make CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=13,14 "Built target dui-cheng-de-er-cha-shu-lcof"
+.PHONY : CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/rule: cmake_check_build_system
+CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/rule
+.PHONY : CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/rule
 
 # Convenience name for target.
-er-jin-zhi-zhong-1de-ge-shu-lcof: CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/rule
-.PHONY : er-jin-zhi-zhong-1de-ge-shu-lcof
+dui-cheng-de-er-cha-shu-lcof: CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/rule
+.PHONY : dui-cheng-de-er-cha-shu-lcof
 
 # clean rule for target.
-CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/build.make CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean
-.PHONY : CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean
+CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/build.make CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/clean
+.PHONY : CMakeFiles/dui-cheng-de-er-cha-shu-lcof.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build.make CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build.make CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=9,10 "Built target da-yin-cong-1dao-zui-da-de-nwei-shu-lcof"
+.PHONY : CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/rule
+
+# Convenience name for target.
+da-yin-cong-1dao-zui-da-de-nwei-shu-lcof: CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/rule
+.PHONY : da-yin-cong-1dao-zui-da-de-nwei-shu-lcof
+
+# clean rule for target.
+CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build.make CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean
+.PHONY : CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir
@@ -259,7 +367,7 @@ CMakeFiles/er-jin-zhi-zhong-1de-ge-shu-lcof.dir/clean:
 CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/build.make CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/build.make CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=15,16 "Built target er-wei-shu-zu-zhong-de-cha-zhao-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=19,20 "Built target er-wei-shu-zu-zhong-de-cha-zhao-lcof"
 .PHONY : CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -285,7 +393,7 @@ CMakeFiles/er-wei-shu-zu-zhong-de-cha-zhao-lcof.dir/clean:
 CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/build.make CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/build.make CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=47,48 "Built target yong-liang-ge-zhan-shi-xian-dui-lie-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=51,52 "Built target yong-liang-ge-zhan-shi-xian-dui-lie-lcof"
 .PHONY : CMakeFiles/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -357,84 +465,6 @@ CMakeFiles/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.dir
 .PHONY : CMakeFiles/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir
-
-# All Build rule for target.
-CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build.make CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build.make CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=9,10 "Built target da-yin-cong-1dao-zui-da-de-nwei-shu-lcof"
-.PHONY : CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/rule
-
-# Convenience name for target.
-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof: CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/rule
-.PHONY : da-yin-cong-1dao-zui-da-de-nwei-shu-lcof
-
-# clean rule for target.
-CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/build.make CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean
-.PHONY : CMakeFiles/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir
-
-# All Build rule for target.
-CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build.make CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build.make CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=29,30 "Built target ju-zhen-zhong-de-lu-jing-lcof"
-.PHONY : CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/rule
-
-# Convenience name for target.
-ju-zhen-zhong-de-lu-jing-lcof: CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/rule
-.PHONY : ju-zhen-zhong-de-lu-jing-lcof
-
-# clean rule for target.
-CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build.make CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean
-.PHONY : CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir
-
-# All Build rule for target.
-CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build.make CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build.make CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=33,34 "Built target qing-wa-tiao-tai-jie-wen-ti-lcof"
-.PHONY : CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/rule
-
-# Convenience name for target.
-qing-wa-tiao-tai-jie-wen-ti-lcof: CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/rule
-.PHONY : qing-wa-tiao-tai-jie-wen-ti-lcof
-
-# clean rule for target.
-CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build.make CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean
-.PHONY : CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/2-add-two-numbers.dir
 
 # All Build rule for target.
@@ -467,7 +497,7 @@ CMakeFiles/2-add-two-numbers.dir/clean:
 CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/build.make CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/build.make CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=23,24 "Built target ji-qi-ren-de-yun-dong-fan-wei-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=27,28 "Built target ji-qi-ren-de-yun-dong-fan-wei-lcof"
 .PHONY : CMakeFiles/ji-qi-ren-de-yun-dong-fan-wei-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -539,13 +569,65 @@ CMakeFiles/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.dir/clean:
 .PHONY : CMakeFiles/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/ti-huan-kong-ge-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/ti-huan-kong-ge-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti-huan-kong-ge-lcof.dir/build.make CMakeFiles/ti-huan-kong-ge-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti-huan-kong-ge-lcof.dir/build.make CMakeFiles/ti-huan-kong-ge-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=47,48 "Built target ti-huan-kong-ge-lcof"
+.PHONY : CMakeFiles/ti-huan-kong-ge-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ti-huan-kong-ge-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ti-huan-kong-ge-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/ti-huan-kong-ge-lcof.dir/rule
+
+# Convenience name for target.
+ti-huan-kong-ge-lcof: CMakeFiles/ti-huan-kong-ge-lcof.dir/rule
+.PHONY : ti-huan-kong-ge-lcof
+
+# clean rule for target.
+CMakeFiles/ti-huan-kong-ge-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti-huan-kong-ge-lcof.dir/build.make CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
+.PHONY : CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/jian-sheng-zi-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/jian-sheng-zi-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-lcof.dir/build.make CMakeFiles/jian-sheng-zi-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-lcof.dir/build.make CMakeFiles/jian-sheng-zi-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=31,32 "Built target jian-sheng-zi-lcof"
+.PHONY : CMakeFiles/jian-sheng-zi-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/jian-sheng-zi-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/jian-sheng-zi-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/jian-sheng-zi-lcof.dir/rule
+
+# Convenience name for target.
+jian-sheng-zi-lcof: CMakeFiles/jian-sheng-zi-lcof.dir/rule
+.PHONY : jian-sheng-zi-lcof
+
+# clean rule for target.
+CMakeFiles/jian-sheng-zi-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-lcof.dir/build.make CMakeFiles/jian-sheng-zi-lcof.dir/clean
+.PHONY : CMakeFiles/jian-sheng-zi-lcof.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir
 
 # All Build rule for target.
 CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/build.make CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/build.make CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=35,36 "Built target shan-chu-lian-biao-de-jie-dian-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=39,40 "Built target shan-chu-lian-biao-de-jie-dian-lcof"
 .PHONY : CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -565,13 +647,65 @@ CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/clean:
 .PHONY : CMakeFiles/shan-chu-lian-biao-de-jie-dian-lcof.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build.make CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build.make CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=33,34 "Built target ju-zhen-zhong-de-lu-jing-lcof"
+.PHONY : CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/rule
+
+# Convenience name for target.
+ju-zhen-zhong-de-lu-jing-lcof: CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/rule
+.PHONY : ju-zhen-zhong-de-lu-jing-lcof
+
+# clean rule for target.
+CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/build.make CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean
+.PHONY : CMakeFiles/ju-zhen-zhong-de-lu-jing-lcof.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir
+
+# All Build rule for target.
+CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build.make CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build.make CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=37,38 "Built target qing-wa-tiao-tai-jie-wen-ti-lcof"
+.PHONY : CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
+.PHONY : CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/rule
+
+# Convenience name for target.
+qing-wa-tiao-tai-jie-wen-ti-lcof: CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/rule
+.PHONY : qing-wa-tiao-tai-jie-wen-ti-lcof
+
+# clean rule for target.
+CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/build.make CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean
+.PHONY : CMakeFiles/qing-wa-tiao-tai-jie-wen-ti-lcof.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir
 
 # All Build rule for target.
 CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/build.make CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/build.make CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=21,22 "Built target he-bing-liang-ge-pai-xu-de-lian-biao-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=25,26 "Built target he-bing-liang-ge-pai-xu-de-lian-biao-lcof"
 .PHONY : CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -597,7 +731,7 @@ CMakeFiles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof.dir/clean:
 CMakeFiles/fan-zhuan-lian-biao-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fan-zhuan-lian-biao-lcof.dir/build.make CMakeFiles/fan-zhuan-lian-biao-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fan-zhuan-lian-biao-lcof.dir/build.make CMakeFiles/fan-zhuan-lian-biao-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=17,18 "Built target fan-zhuan-lian-biao-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=21,22 "Built target fan-zhuan-lian-biao-lcof"
 .PHONY : CMakeFiles/fan-zhuan-lian-biao-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -623,7 +757,7 @@ CMakeFiles/fan-zhuan-lian-biao-lcof.dir/clean:
 CMakeFiles/jian-sheng-zi-ii-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-ii-lcof.dir/build.make CMakeFiles/jian-sheng-zi-ii-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-ii-lcof.dir/build.make CMakeFiles/jian-sheng-zi-ii-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=25,26 "Built target jian-sheng-zi-ii-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=29,30 "Built target jian-sheng-zi-ii-lcof"
 .PHONY : CMakeFiles/jian-sheng-zi-ii-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -649,7 +783,7 @@ CMakeFiles/jian-sheng-zi-ii-lcof.dir/clean:
 CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/build.make CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/build.make CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=31,32 "Built target lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=35,36 "Built target lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof"
 .PHONY : CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -675,7 +809,7 @@ CMakeFiles/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.dir/clean:
 CMakeFiles/shu-de-zi-jie-gou-lcof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-de-zi-jie-gou-lcof.dir/build.make CMakeFiles/shu-de-zi-jie-gou-lcof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-de-zi-jie-gou-lcof.dir/build.make CMakeFiles/shu-de-zi-jie-gou-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=37,38 "Built target shu-de-zi-jie-gou-lcof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=41,42 "Built target shu-de-zi-jie-gou-lcof"
 .PHONY : CMakeFiles/shu-de-zi-jie-gou-lcof.dir/all
 
 # Build rule for subdir invocation for target.
@@ -693,84 +827,6 @@ shu-de-zi-jie-gou-lcof: CMakeFiles/shu-de-zi-jie-gou-lcof.dir/rule
 CMakeFiles/shu-de-zi-jie-gou-lcof.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-de-zi-jie-gou-lcof.dir/build.make CMakeFiles/shu-de-zi-jie-gou-lcof.dir/clean
 .PHONY : CMakeFiles/shu-de-zi-jie-gou-lcof.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir
-
-# All Build rule for target.
-CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build.make CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build.make CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=41,42 "Built target shu-zu-zhong-zhong-fu-de-shu-zi-lcof"
-.PHONY : CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/rule
-
-# Convenience name for target.
-shu-zu-zhong-zhong-fu-de-shu-zi-lcof: CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/rule
-.PHONY : shu-zu-zhong-zhong-fu-de-shu-zi-lcof
-
-# clean rule for target.
-CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/build.make CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean
-.PHONY : CMakeFiles/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/jian-sheng-zi-lcof.dir
-
-# All Build rule for target.
-CMakeFiles/jian-sheng-zi-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-lcof.dir/build.make CMakeFiles/jian-sheng-zi-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-lcof.dir/build.make CMakeFiles/jian-sheng-zi-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=27,28 "Built target jian-sheng-zi-lcof"
-.PHONY : CMakeFiles/jian-sheng-zi-lcof.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/jian-sheng-zi-lcof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/jian-sheng-zi-lcof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/jian-sheng-zi-lcof.dir/rule
-
-# Convenience name for target.
-jian-sheng-zi-lcof: CMakeFiles/jian-sheng-zi-lcof.dir/rule
-.PHONY : jian-sheng-zi-lcof
-
-# clean rule for target.
-CMakeFiles/jian-sheng-zi-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/jian-sheng-zi-lcof.dir/build.make CMakeFiles/jian-sheng-zi-lcof.dir/clean
-.PHONY : CMakeFiles/jian-sheng-zi-lcof.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/ti-huan-kong-ge-lcof.dir
-
-# All Build rule for target.
-CMakeFiles/ti-huan-kong-ge-lcof.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti-huan-kong-ge-lcof.dir/build.make CMakeFiles/ti-huan-kong-ge-lcof.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti-huan-kong-ge-lcof.dir/build.make CMakeFiles/ti-huan-kong-ge-lcof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles --progress-num=43,44 "Built target ti-huan-kong-ge-lcof"
-.PHONY : CMakeFiles/ti-huan-kong-ge-lcof.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ti-huan-kong-ge-lcof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ti-huan-kong-ge-lcof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zxq/.leetcode/cplus/cmake-build-default/CMakeFiles 0
-.PHONY : CMakeFiles/ti-huan-kong-ge-lcof.dir/rule
-
-# Convenience name for target.
-ti-huan-kong-ge-lcof: CMakeFiles/ti-huan-kong-ge-lcof.dir/rule
-.PHONY : ti-huan-kong-ge-lcof
-
-# clean rule for target.
-CMakeFiles/ti-huan-kong-ge-lcof.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti-huan-kong-ge-lcof.dir/build.make CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
-.PHONY : CMakeFiles/ti-huan-kong-ge-lcof.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
